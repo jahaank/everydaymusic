@@ -1,6 +1,8 @@
 Everyday Music Listening
 ================
 
+This is a page for my class *Data Science in Everyday Music Listening*
+
 ## GitHub Documents
 
 This is an R Markdown format used for publishing markdown documents to
